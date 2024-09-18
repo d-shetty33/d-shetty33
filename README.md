@@ -3,19 +3,23 @@
 Welcome to my GitHub profile!<br><br>I’m Dhanya Shetty , a passionate web developer with a strong focus on frontend technologies and a growing interest in backend development. <br><br>
 # Frontend Expertise
 HTML: Crafting clean, semantic markup to structure web content.
+
 CSS: Designing beautiful, responsive layouts with precision.
+
 JavaScript: Bringing interactivity and dynamic functionality to life.
+
 Figma: Creating intuitive and visually appealing designs.
 
 # Current Focus
 I am currently expanding my skill set to complement my frontend expertise. My key areas of learning include:
+
 React JS: Building robust and dynamic user interfaces.
+
 Node.js: Understanding server-side JavaScript to manage backend operations and APIs.
 
 📫 How to reach me - dhanyashetty332@gmail.com
 
-## 🌐 Socials:
-# connect with me :
+## 🌐 Socials - connect with me :
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.linkedin.com/in/dhanya-shetty-270589230/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dhanya-shetty-270589230/) 
 
 # 💻 Tech Stack:
